@@ -1,1 +1,1 @@
-A&T development repository. these repository creation for developing websites, on various subjects.
+A&T development repository. these repository created for developing websites, on various subjects.
