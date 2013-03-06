@@ -1,0 +1,1 @@
+the first template site for "magnolia" beauty salon.
