@@ -1,0 +1,31 @@
+/* 
+    Document   : page
+    Created on : 11.03.2013, 19:38:46
+    Author     : san4o
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.body{
+    background-color: #ffcccc;
+    background-size: 100%;
+    
+}
+.saloon img {
+     width: 80%;
+     height: 500px;
+     border: solid;
+     border-color: #FFFFFF;
+     border-radius: 6px;
+     border-width: 3px;
+    display: block;
+     margin:0 auto;
+}
+@font-face {
+font-family:classic one;
+src:url('1.ttf'),url('1.eot')
+}
+ p { font-family: classic one;}
+            
+           
+
