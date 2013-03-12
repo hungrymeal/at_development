@@ -73,8 +73,7 @@ body
         }
         .bg2 li {
          float: none;
-         font-family:Cansellarist;
-         src:url('Cansellarist.ttf');
+         font-family:cansellarist;
          font-size: 40px;
         }        
         .bg2 iframe {
