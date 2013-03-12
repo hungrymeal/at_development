@@ -1,3 +1,9 @@
+@font-face
+{
+    font-family: cansellarist;
+    src: url("Cansellarist.ttf");
+}
+
 body
 {
     padding: 0;
