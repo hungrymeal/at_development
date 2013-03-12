@@ -16,10 +16,12 @@ body
         height:500px;
         position: relative;
         top:-1000px;
+        left:50px;
+     
        }
 .bg iframe{overflow-x: hidden;
           width: 95%;
-           min-height:1000px;
+           min-height:1100px;
           max-height: 1500px;
           position:relative;
           top:400px;
@@ -40,13 +42,41 @@ body
 }
 .bg1 iframe {
     width: 60%;
-    min-height: 800px;
+    min-height: 1000px;
     position:relative;
     left:20%;
     border:solid;
     border-color: #FFFFFF;
     border-width: 3px;
 }
+.bg1 ul {list-style: none;
+      height: 20px;
+      width: 60%;
+      display: block;
+      margin: 0 auto;
+}
+.bg1 li {float:left;
+         margin: 15px;
+         font-size: 20px;
+        }
+.bg2 ul {list-style: none;
+         position: absolute;
+         top: 80px;
+         left: auto;
+        }
+        .bg2 li {
+         float: none;
+         font-family:Cansellarist;
+         src:url('Cansellarist.ttf');
+         font-size: 40px;
+        }        
+        .bg2 iframe {
+            width: 235px;
+            height: 650px;
+            position:absolute;
+            left: 80.8%;
+            top:70px;
+        }
 
 .bottom_panel 
 {
