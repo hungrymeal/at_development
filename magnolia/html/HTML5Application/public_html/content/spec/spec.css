@@ -1,0 +1,29 @@
+/* 
+    Document   : spec
+    Created on : 12.03.2013, 21:40:11
+    Author     : san4o
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body {background-color:#ffcccc;}
+.spec img {
+           width: 350px;
+           height: 450px;
+           border:solid #ffffff 3px;
+           border-radius: 6px;
+           position: absolute;
+           top: 150px;
+           left:150px;      
+}
+.spec p { font-size: 24px; 
+          width: 400px;
+          color: #660033;
+          position: absolute;
+          top: 170px;
+          left: 600px;
+          
+         }
+         .spec h1 {
+             text-align: center;
+         }        
+
