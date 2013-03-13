@@ -4,39 +4,45 @@
     src: url("Cansellarist.ttf");
 }
 
-body
+html
 {
+    height: 100%;
     padding: 0;
     margin: 0;
 }
 
-.body{
+body
+{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+body#main
+{
+    height: 200%;
     background-image:url(background.jpg);
     background-color:#8d004a;
     background-repeat:repeat-x;
+    padding: 0;
+    margin: 0;
 }
-.body1 {
-     background-color: #8d004a;
+
+.bg
+{
+    height: 25%;
+    padding: 0;
+    margin: 0;
 }
-.bg img{ width: 100%;
-        height:500px;
-        position: absolute;
-        top:0px;
-        left:50px;
-     
-       }
-.bg iframe{overflow-x: hidden;
-          width: 95%;
-           min-height:1100px;
-          max-height: 1500px;
-          position:absolute;
-          top:380px;
-          left:2.5%;
-          bottom: 2%;
-          border:solid;
-          border-width: 3px;
-          border-color:#ffffff;
-          
+
+.bg img
+{
+    position: relative;
+    height: 100%;
+    left:5%;
+    width: 90%;
+    z-index: 1;
+    pointer-events: none;
 }
 .bg1 a visited { color:#99ff99;
                text-decoration: none;        
@@ -46,6 +52,8 @@ body
 .bg1 a {
     color:#ffffcc;
     text-decoration: none;
+    display:block;
+    overflow:hidden;
 }
 .bg1 iframe {
     width: 60%;
@@ -84,12 +92,33 @@ body
             top:70px;
         }
 
-.bottom_panel 
+.content
 {
-    position:absolute;
-    top: 1000px;
+    height: 75%;
+    padding: 0;
+    margin: 0;
+}
+
+.content iframe
+{
+    position:relative;
+    min-height: 110%;
+    left: 3%;
+    width: 94%;
+    height: auto;
+    border:solid;
+    border-width: 0.1875em;
+    border-color:#ffffff;
+    z-index: 0;
+    margin-top: -5%;
+}
+
+.bottom_panel
+{
+    float:left;
+    position:relative;
+    height: 15%;
     width: 100%;
-    height: 140px;
     background-color: #6c445a;
     text-align: center;
     text-decoration: none;
@@ -98,20 +127,22 @@ body
 .bottom_panel #divider
 {
     width: 100%;
-    height: 6px;
+    height: 10%;
     background-color: #b45488;
 }
 
-.bottom_panel p
+.bottom_panel #follow_text
 {
     position: relative;
-    top: 15%;
+    height: 45%;
     color: #f4c01c;
-    font: 22px "Cooper Black","Bauhaus 93", Verdana,sans-serif, Helvetica, Arial;
+    font: 1.375em "Cooper Black",Helvetica, Arial;
+    top:1em;
 }
 
 .bottom_panel #follow_bar
 {
     position: relative;
-    top: 5%;
+    height: 45%;
+    font: 0.75em "Cooper Black",Helvetica, Arial;
 }
