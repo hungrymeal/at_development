@@ -25,5 +25,34 @@ body {background-color:#ffcccc;}
          }
          .spec h1 {
              text-align: center;
-         }        
+         } 
+         .nav img {
+                height: 140px;
+                width: 100px;
+                border: solid 3px #ffffff;
+                border-radius: 5px;
+         }
+         .nav ul {list-style: none;
+                  width: 900px;}
+         .nav li {margin: 25px;}
+         .nav_text a {
+                    color: #660033;
+                    font-size: 22px;
+                    font-family: "Cooper Black",Helvetica, Arial;
+                    text-decoration: none;
+         }
+         .nav_text a visited {
+                    color: #660033;
+                    font-size: 22px;
+                    font-family: "Cooper Black",Helvetica, Arial;
+                    text-decoration: none;
+         }
+         .nav_text ul {
+                      position:absolute;
+                      left:450px;
+                      top:0px;
+         }
+         .nav_text li {
+                       margin: 59px;
+         }
 
