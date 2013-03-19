@@ -23,7 +23,7 @@
 }
 @font-face {
 font-family:classic one;
-src:url('1.ttf'),url('1.eot')
+src:url('content/1.ttf'),url('1.eot')
 }
  p { font-family: classic one;
  width: 90%;

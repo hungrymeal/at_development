@@ -4,7 +4,7 @@
     <list default="true" id="51b3b818-3340-468e-b5ea-3893a4853497" name="Default" comment="" />
     <ignored path="magnolia.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363646827896" ignored="false" />
+    <file path="/index.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363722791777" ignored="false" />
     <file path="/a.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363637009383" ignored="false" />
     <file path="/a.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363637045567" ignored="false" />
     <file path="/Slider.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363652082330" ignored="false" />
@@ -26,6 +26,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -60,7 +61,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -70,10 +70,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="68" selection-start="1056" selection-end="1056" vertical-scroll-proportion="-15.307693">
+            <state line="20" column="32" selection-start="789" selection-end="789" vertical-scroll-proportion="0.33146068">
               <folding />
             </state>
           </provider>
@@ -82,7 +82,25 @@
       <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="50" selection-start="1294" selection-end="1294" vertical-scroll-proportion="-17.884615">
+            <state line="12" column="49" selection-start="354" selection-end="354" vertical-scroll-proportion="-5.8846154">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="saloon.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/saloon.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="11" selection-start="310" selection-end="310" vertical-scroll-proportion="-6.5384617">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/page.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,10 +124,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="startSlider.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="startSlider.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="60" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.81964284">
+            <state line="18" column="95" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,7 +136,7 @@
       <file leaf-file-name="alt.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="164" column="19" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.0">
+            <state line="15" column="37" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -136,13 +154,13 @@
       <list>
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric1.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/startFollowMenu.js" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/index.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider-styles.css" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider.js" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/main.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/Slider.js" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/alt.css" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/main.html" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/index.html" />
       </list>
     </option>
   </component>
@@ -194,11 +212,11 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files" />
-      </pane>
       <pane id="PackagesPane">
         <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
       </pane>
       <pane id="ProjectPane">
         <subPane>
@@ -276,67 +294,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coin-slider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="gfx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="slider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magnolia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magnolia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public_html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -349,18 +337,26 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="editor.preferences.appearance" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html/HTML5Application/public_html/index.html" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Telman\Documents\GitHub\at_development\magnolia\html\HTML5Application\public_html" />
+      <recent name="C:\Users\Telman\Documents\GitHub\at_development\magnolia\html\HTML5Application" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.debug">
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -398,12 +394,23 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="false" name="debug" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="chrome" />
+        <option name="fileUrl" value="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html" />
+      </JSDebuggerConfigurationSettings>
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.debug" />
+    </list>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -432,10 +439,9 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287879" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2469697" sideWeight="0.67064846" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24646313" sideWeight="0.6006826" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -443,6 +449,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287879" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -504,11 +511,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/text.txt">
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="164" column="19" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.0">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/gfx/slider/2.jpg">
@@ -519,13 +531,6 @@
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/image/1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/saloon.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="11" selection-start="307" selection-end="307" vertical-scroll-proportion="-6.5384617">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric1.html">
@@ -554,23 +559,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="68" selection-start="1056" selection-end="1056" vertical-scroll-proportion="-15.307693">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="50" selection-start="1294" selection-end="1294" vertical-scroll-proportion="-17.884615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider-styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="25" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="95" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="37" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -582,16 +587,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="19" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.0">
+        <state line="8" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js">
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/saloon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="60" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.81964284">
+        <state line="10" column="11" selection-start="310" selection-end="310" vertical-scroll-proportion="-6.5384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="49" selection-start="354" selection-end="354" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="32" selection-start="789" selection-end="789" vertical-scroll-proportion="0.33146068">
           <folding />
         </state>
       </provider>

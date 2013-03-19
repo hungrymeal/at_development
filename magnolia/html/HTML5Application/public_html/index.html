@@ -8,11 +8,19 @@ and open the template in the editor.
         <title>салон красоты магнолия все виды услуг</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="alt.css" />
+
+		<link rel="stylesheet" href="js/coin-slider/coin-slider-styles.css">
+		<script type="text/javascript" src="js/libs/jquery-1.9.1.js"></script>
+		<script type="text/javascript" src="js/coin-slider/coin-slider.js"></script>
+		<script type="text/javascript" src="js/coin-slider/Slider.js"></script>
+		<script type="text/javascript" src="js/startSlider.js"></script>
     </head>
 
     <body id="index">
         <div class="bg">
-            <img src="name.png">
+            <a href="main.html" target="mainInfo">
+				<img src="name.png">
+			</a>
         </div>
 		<ul id="indexTitle">
 			<li><a href="galery.html" 		target="mainInfo"> фотогалерея</a></li>
@@ -22,7 +30,28 @@ and open the template in the editor.
 			<li><a href="clients.html" 		target="mainInfo">для клиентов</a></li>
 		</ul>
 		<div class="content">
-            <iframe src="main.html" scrolling="no" id="mainInfo"></iframe>
+			<div class="grid">
+				<div class="mainGridColumn">
+					<ul>
+						<li><h1>услуги</h1></li>
+						<li><a href="#">стрижка</a></li>
+						<li><a href="#">прическа</a></li>
+						<li><a href="#">макияж</a></li>
+						<li><a href="#">маникюр</a></li>
+						<li><a href="#">педикюр</a></li>
+						<li><a href="#">косметология</a></li>
+						<li><a href="#">депиляция</a></li>
+						<li><a href="#">массаж</a></li>
+						<li><a href="#">пирсинг</a></li>
+					</ul>
+				</div>
+				<div class="mainGridWideColumn">
+					<iframe src="main.html" scrolling="no" id="mainInfo"></iframe>
+				</div>
+				<div class="mainGridColumn last">
+					<div id="advertisement"></div>
+				</div>
+			</div>
             <div class="bottom_panel">
                 <div id="divider"></div>
                 <div id="follow_text">Follow us</div>
