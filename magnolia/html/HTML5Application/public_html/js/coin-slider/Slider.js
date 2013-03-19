@@ -1,23 +1,13 @@
-function Slider()
+function Slider(rootTag)
 {
+	this.root = rootTag;
+	this.currentSlider = 0;
+	this.initObject = {};
 }
 
-/*
- width,// width of slider panel
- height,// height of slider panel
- spw,// squares per width
- sph,// squares per height
- delay,// delay between images in ms
- sDelay,// delay beetwen squares in ms
- opacity,// opacity of title and navigation
- titleSpeed,// speed of title appereance in ms
- effect,// random, swirl, rain, straight
- navigation,// prev next and buttons
- links,// show images as links 
- hoverPause*/
 Slider.prototype.init = function(initObject)
 {
-    $("#slider").coinslider(initObject);
+	this.initObject = initObject;
 };
 
 Slider.prototype.addElement = function(img, href, description)
@@ -30,5 +20,23 @@ Slider.prototype.addElement = function(img, href, description)
     text.innerText = description ? description : "";
     hrefTag.appendChild(image);
     hrefTag.appendChild(text);
-    $("#slider").append(hrefTag);
+	$("#" + this.root + this.currentSlider).append(hrefTag);
+};
+
+Slider.prototype.show = function()
+{
+	for(var sliderId = 1; sliderId <= this.currentSlider; sliderId++)
+	{
+		$("#" + this.root + sliderId).coinslider(this.initObject);
+	}
+};
+
+Slider.prototype.createSlider = function(sliderObject)
+{
+	this.currentSlider++;
+	var slider = document.createElement("div");
+	$(slider).attr("position",sliderObject.position);
+	$(slider).attr("id",this.root + this.currentSlider);
+	$(slider).attr("class","advertisement");
+	$("#" + this.root).append(slider);
 };

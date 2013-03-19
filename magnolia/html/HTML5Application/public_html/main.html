@@ -4,43 +4,39 @@ and open the template in the editor.
 -->
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" href="alt.css" type="text/css"/>
-        <title></title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    </head>
-    <body class="body1">
- 
-        <div class="bg1">
-            <ul>
-                
-                <li><a href="galery.html" target="menu"> фотогалерея</a>
-                <li><a href="speciolists.html" target="menu">специалисты</a>
-                <li><a href="services.html" target="menu">услуги</a> 
-                <li><a href="offers.html" target="menu">предложения</a> 
-                <li><a href="clients.html" target="menu">для клиентов</a>
-            </ul>
-            <iframe src="content/saloon.html">
-            </iframe>
-            <div class="bg2">
-                 <iframe>
-                </iframe>
-                <ul>
-                    <li><h1>услуги</h1></li>
-                    <li><a href="#">стрижка</a></li>
-                    <li><a href="#">прическа</a></li>
-                    <li><a href="#">макияж</a></li>       
-                    <li><a href="#">маникюр</a></li>       
-                    <li><a href="#">педикюр</a>       
-                    <li><a href="#">косметология</a>      
-                    <li><a href="#">депиляция</a>      
-                    <li><a href="#">массаж</a>      .
-                    <li><a href="#">пирсинг</a>        
-                </ul>
-               
-                
-            </div>
-            
-        </div>
-    </body>
+<head>
+	<link rel="stylesheet" href="alt.css" type="text/css"/>
+	<title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<link rel="stylesheet" href="js/coin-slider/coin-slider-styles.css">
+	<script type="text/javascript" src="js/libs/jquery-1.9.1.js"></script>
+	<script type="text/javascript" src="js/coin-slider/coin-slider.js"></script>
+	<script type="text/javascript" src="js/coin-slider/Slider.js"></script>
+	<script type="text/javascript" src="js/startSlider.js"></script>
+</head>
+<body>
+	<div class="grid">
+		<div class="mainGridColumn">
+			<ul>
+				<li><h1>услуги</h1></li>
+				<li><a href="#">стрижка</a></li>
+				<li><a href="#">прическа</a></li>
+				<li><a href="#">макияж</a></li>
+				<li><a href="#">маникюр</a></li>
+				<li><a href="#">педикюр</a></li>
+				<li><a href="#">косметология</a></li>
+				<li><a href="#">депиляция</a></li>
+				<li><a href="#">массаж</a></li>
+				<li><a href="#">пирсинг</a></li>
+			</ul>
+		</div>
+		<div class="mainGridWideColumn">
+			<iframe src="content/saloon.html" class="mainContent"></iframe>
+		</div>
+		<div class="mainGridColumn last">
+			<div id="advertisement"></div>
+		</div>
+	</div>
+</body>
 </html>

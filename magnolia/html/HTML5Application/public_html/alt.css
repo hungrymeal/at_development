@@ -1,122 +1,65 @@
-@font-face
-{
+@font-face {
     font-family: cansellarist;
     src: url("Cansellarist.ttf");
 }
 
-html
-{
+html {
     height: 100%;
+    width: 100%;
     padding: 0;
     margin: 0;
 }
 
-body
-{
+body {
     padding: 0;
     margin: 0;
     height: 100%;
+    width: 100%;
 }
 
-body#main
-{
+body#index {
     height: 200%;
-    background-image:url(background.jpg);
-    background-color:#8d004a;
-    background-repeat:repeat-x;
+    width: 100%;
+    background: url(background.jpg) #8d004a repeat-x;
     padding: 0;
     margin: 0;
 }
 
-.bg
-{
+.bg {
     height: 25%;
     padding: 0;
     margin: 0;
+    z-index: 1;
 }
 
-.bg img
-{
+.bg img {
     position: relative;
     height: 100%;
-    left:5%;
+    left: 5%;
     width: 90%;
-    z-index: 1;
-    pointer-events: none;
 }
-.bg1 a visited { color:#99ff99;
-               text-decoration: none;        
-}
-.bg1 a active { color:#99ccff; ;
-                text-decoration: none;}
-.bg1 a {
-    color:#ffffcc;
-    text-decoration: none;
-    display:block;
-    overflow:hidden;
-}
-.bg1 iframe {
-    width: 60%;
-    min-height: 1000px;
-    position:relative;
-    left:20%;
-    border:solid;
-    border-color: #FFFFFF;
-    border-width: 3px;
-}
-.bg1 ul {list-style: none;
-      height: 20px;
-      width: 60%;
-      display: block;
-      margin: 0 auto;
-}
-.bg1 li {float:left;
-         margin: 15px;
-         font-size: 20px;
-        }
-.bg2 ul {list-style: none;
-         position: absolute;
-         top: 80px;
-         left: auto;
-        }
-        .bg2 li {
-         float: none;
-         font-family:cansellarist;
-         font-size: 40px;
-        }        
-        .bg2 iframe {
-            width: 235px;
-            height: 650px;
-            position:absolute;
-            left: 80.8%;
-            top:70px;
-        }
 
-.content
-{
+.content {
     height: 75%;
-    padding: 0;
-    margin: 0;
+    width: 100%;
+    margin-top: 3%;
 }
 
-.content iframe
-{
-    position:relative;
-    min-height: 110%;
-    left: 3%;
-    width: 94%;
-    height: auto;
-    border:solid;
-    border-width: 0.1875em;
-    border-color:#ffffff;
-    z-index: 0;
-    margin-top: -5%;
+.content iframe {
+    height: 100%;
+    width: 100%;
+    border: 0;
 }
 
-.bottom_panel
-{
-    float:left;
-    position:relative;
+.mainContent {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.bottom_panel {
+    float: left;
+    position: relative;
     height: 15%;
     width: 100%;
     background-color: #6c445a;
@@ -124,25 +67,100 @@ body#main
     text-decoration: none;
 }
 
-.bottom_panel #divider
-{
+.bottom_panel #divider {
     width: 100%;
     height: 10%;
     background-color: #b45488;
 }
 
-.bottom_panel #follow_text
-{
+.bottom_panel #follow_text {
     position: relative;
     height: 45%;
     color: #f4c01c;
-    font: 1.375em "Cooper Black",Helvetica, Arial;
-    top:1em;
+    font: 1.375em "Cooper Black", Helvetica, Arial;
+    top: 1em;
 }
 
-.bottom_panel #follow_bar
-{
+.bottom_panel #follow_bar {
     position: relative;
     height: 45%;
-    font: 0.75em "Cooper Black",Helvetica, Arial;
+    font: 0.75em "Cooper Black", Helvetica, Arial;
+}
+
+.grid {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    border: solid 2px #FFFFFF;
+    border-left: 0;
+    border-right: 0;
+}
+
+.mainGridColumn {
+    float: left;
+    width: 15%;
+    height: 100%;
+    margin-right: 2%;
+}
+
+.mainGridWideColumn {
+    float: left;
+    width: 66%;
+    height: 100%;
+    border: solid 2px #FFFFFF;
+    border-bottom: 0;
+    border-top: 0;
+}
+
+.grid .last {
+    overflow: hidden;
+    float: left;
+    width: 15%;
+    height: 100%;
+    margin-left: 1%;
+    margin-right: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-family: cansellarist;
+    font-size: 40px;
+}
+
+ul a {
+    text-decoration: none;
+}
+
+ul a:visited {
+    color: #99ff99;
+}
+
+ul a:active {
+    color: #99ccff;
+}
+
+ul#indexTitle {
+    margin-left: 15%;
+    width: 66%;
+    margin-top: -5%;
+    position: relative;
+    z-index: 2;
+}
+
+ul#indexTitle li {
+    float: left;
+    font-size: 30px;
+    width: 19%;
+    margin-right: 0.25%;
+    border: solid 2px #FFFFFF;
+    text-align: center;
+    background-color: rgba(181, 134, 185, 0.59);
+}
+
+.advertisement {
+    border: 2px solid #f4c01c;
+    margin-top: 1%;
 }

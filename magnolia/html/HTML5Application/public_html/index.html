@@ -8,21 +8,21 @@ and open the template in the editor.
         <title>салон красоты магнолия все виды услуг</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="alt.css" />
-        
-        <link rel="stylesheet" type="text/css" href="js/css-dock-menu/style.css" />
-        <script type="text/javascript" src="js/css-dock-menu/js/jquery.js"></script>
-        <script type="text/javascript" src="js/css-dock-menu/js/interface.js"></script>
-        <script type="text/javascript" src="js/css-dock-menu/FollowMenu.js"></script>
-        <script type="text/javascript" src="js/startFollowMenu.js"></script>
     </head>
-    
-    <body id="main">
+
+    <body id="index">
         <div class="bg">
             <img src="name.png">
         </div>
-        <div class="content">
-            <iframe src="main.html"></iframe>
-            
+		<ul id="indexTitle">
+			<li><a href="galery.html" 		target="mainInfo"> фотогалерея</a></li>
+			<li><a href="speciolists.html" 	target="mainInfo">специалисты</a></li>
+			<li><a href="services.html" 	target="mainInfo">услуги</a></li>
+			<li><a href="offers.html" 		target="mainInfo">предложения</a></li>
+			<li><a href="clients.html" 		target="mainInfo">для клиентов</a></li>
+		</ul>
+		<div class="content">
+            <iframe src="main.html" scrolling="no" id="mainInfo"></iframe>
             <div class="bottom_panel">
                 <div id="divider"></div>
                 <div id="follow_text">Follow us</div>
@@ -30,5 +30,5 @@ and open the template in the editor.
             </div>
         </div>
     </body>
-    
+
 </html>
