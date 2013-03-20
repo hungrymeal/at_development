@@ -1,0 +1,23 @@
+/* 
+    Document   : services
+    Created on : 20.03.2013, 20:32:07
+    Author     : san4o
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+.block1 {
+    width: 100%;
+    height:30%;
+}
+.block_image{
+    margin: 1%;
+    width:35%;
+}
+.block_image img {
+    width: 100%;
+    height: 100%;
+}
