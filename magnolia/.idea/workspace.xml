@@ -12,8 +12,8 @@
     <file path="/alt.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363737219744" ignored="false" />
     <file path="/startSlider.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363736074941" ignored="false" />
     <file path="/coin-slider-styles.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363738850017" ignored="false" />
-    <file path="/contacts.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363815086089" ignored="false" />
-    <file path="/contacts.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363812918431" ignored="false" />
+    <file path="/contacts.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363822533193" ignored="false" />
+    <file path="/contacts.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363819047346" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,18 +75,7 @@
       <file leaf-file-name="contacts.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="36" selection-start="586" selection-end="586" vertical-scroll-proportion="0.47792706">
-              <folding>
-                <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contacts.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="47" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0">
+            <state line="13" column="51" selection-start="513" selection-end="513" vertical-scroll-proportion="0.42418426">
               <folding />
             </state>
           </provider>
@@ -95,25 +84,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="95" selection-start="1470" selection-end="1470" vertical-scroll-proportion="-9.269231">
+            <state line="28" column="119" selection-start="1175" selection-end="1175" vertical-scroll-proportion="-2.6538463">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/page.css">
+      <file leaf-file-name="contacts.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="52" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alt.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="49" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0">
+            <state line="40" column="19" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -139,8 +119,8 @@
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider-styles.css" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/Slider.js" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/index.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/page.css" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/index.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.css" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.html" />
       </list>
@@ -254,148 +234,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gfx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gfx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="body" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -420,6 +258,9 @@
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Telman\Documents\GitHub\at_development\magnolia\html\HTML5Application\public_html\gfx\contacts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Telman\Documents\GitHub\at_development\magnolia\html\HTML5Application\public_html\gfx\body" />
       <recent name="C:\Users\Telman\Documents\GitHub\at_development\magnolia\html\HTML5Application\public_html\gfx\slider" />
@@ -585,11 +426,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/startFollow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/libs/yandex-share.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="467" column="25" selection-start="8953" selection-end="8960" vertical-scroll-proportion="0.31992337">
@@ -646,50 +482,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="49" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/gfx/body/contacts.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="52" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
+        <state line="10" column="52" selection-start="215" selection-end="215" vertical-scroll-proportion="0.2125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="20" selection-start="330" selection-end="330" vertical-scroll-proportion="0.27321428">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="48" selection-start="1523" selection-end="1523" vertical-scroll-proportion="1.8196429">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/gfx/contacts/contacts.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="19" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="95" selection-start="1470" selection-end="1470" vertical-scroll-proportion="-9.269231">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="47" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0">
+        <state line="28" column="119" selection-start="1175" selection-end="1175" vertical-scroll-proportion="-2.6538463">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="36" selection-start="586" selection-end="586" vertical-scroll-proportion="0.47792706">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="13" column="51" selection-start="513" selection-end="513" vertical-scroll-proportion="0.42418426">
+          <folding />
         </state>
       </provider>
     </entry>
