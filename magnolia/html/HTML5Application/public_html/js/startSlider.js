@@ -5,27 +5,27 @@ $(function(){
 var init = function()
 {
     var slider = new Slider("advertisement");
-    slider.init({width: 200, height: 200, delay: 3000, effect: "random", navigation: false});
+    slider.init({rows: 5, delay: 5000});
 
-	slider.createSlider({position: "relative"});
-    slider.addElement("gfx/slider/1.jpg", "google.com", "google");
-    slider.addElement("gfx/slider/2.jpg", "vk.com", "vk");
-
-	slider.createSlider({position: "relative"});
-	slider.addElement("gfx/slider/3.jpg", "google.com", "google");
-	slider.addElement("gfx/slider/4.jpg", "vk.com", "vk");
-
-	slider.createSlider({position: "relative"});
-	slider.addElement("gfx/slider/1.jpg", "google.com", "google");
+	slider.createSlider();
 	slider.addElement("gfx/slider/2.jpg", "vk.com", "vk");
+	slider.addElement("gfx/slider/1.jpg", "google.com", "google");
 
-	slider.createSlider({position: "relative"});
-	slider.addElement("gfx/slider/3.jpg", "google.com", "google");
-	slider.addElement("gfx/slider/4.jpg", "vk.com", "vk");
+	slider.createSlider();
+	slider.addElement("gfx/slider/6.jpg", "google.com", "google");
+	slider.addElement("gfx/slider/7.jpg", "vk.com", "vk");
 
-	slider.createSlider({position: "relative"});
-	slider.addElement("gfx/slider/3.jpg", "google.com", "google");
+	slider.createSlider();
+	slider.addElement("gfx/slider/9.jpg", "vk.com", "vk");
+	slider.addElement("gfx/slider/10.jpg", "google.com", "google");
+
+	slider.createSlider();
+	slider.addElement("gfx/slider/5.jpg", "google.com", "google");
+	slider.addElement("gfx/slider/8.jpg", "vk.com", "vk");
+
+	slider.createSlider();
 	slider.addElement("gfx/slider/4.jpg", "vk.com", "vk");
+	slider.addElement("gfx/slider/3.jpg", "google.com", "google");
 
 	slider.show();
 };

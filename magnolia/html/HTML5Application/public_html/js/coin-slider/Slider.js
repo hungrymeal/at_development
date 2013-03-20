@@ -7,7 +7,13 @@ function Slider(rootTag)
 
 Slider.prototype.init = function(initObject)
 {
-	this.initObject = initObject;
+	this.initObject = {};
+
+	this.initObject.width = $("#" + this.root).parent().width();
+	this.initObject.height = $("#" + this.root).parent().height()/initObject.rows-2;
+	this.initObject.navigation = false;
+	this.initObject.delay = initObject.delay;
+	console.log($("#" + this.root).parent().height(), initObject.rows, this.initObject.height)
 };
 
 Slider.prototype.addElement = function(img, href, description)
@@ -29,13 +35,14 @@ Slider.prototype.show = function()
 	{
 		$("#" + this.root + sliderId).coinslider(this.initObject);
 	}
+	$(".slider a").css("background-size", this.initObject.width + "px " + this.initObject.height + "px");
 };
 
-Slider.prototype.createSlider = function(sliderObject)
+Slider.prototype.createSlider = function()
 {
 	this.currentSlider++;
 	var slider = document.createElement("div");
-	$(slider).attr("position",sliderObject.position);
+	$(slider).attr("position","relative");
 	$(slider).attr("id",this.root + this.currentSlider);
 	$(slider).attr("class","advertisement");
 	$("#" + this.root).append(slider);

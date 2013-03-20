@@ -3,8 +3,6 @@
 */
 
 .slider {
-    overflow: hidden;
-    zoom: 1;
     position: relative;
 }
 

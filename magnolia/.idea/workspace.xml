@@ -4,14 +4,14 @@
     <list default="true" id="51b3b818-3340-468e-b5ea-3893a4853497" name="Default" comment="" />
     <ignored path="magnolia.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363732477734" ignored="false" />
+    <file path="/index.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363736355129" ignored="false" />
     <file path="/a.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363637009383" ignored="false" />
     <file path="/a.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363637045567" ignored="false" />
-    <file path="/Slider.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363652082330" ignored="false" />
+    <file path="/Slider.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363739887294" ignored="false" />
     <file path="/main.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363652459791" ignored="false" />
-    <file path="/alt.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363733124094" ignored="false" />
-    <file path="/startSlider.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363649879072" ignored="false" />
-    <file path="/coin-slider-styles.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363652377911" ignored="false" />
+    <file path="/alt.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363737219744" ignored="false" />
+    <file path="/startSlider.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363736074941" ignored="false" />
+    <file path="/coin-slider-styles.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363738850017" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,10 +70,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="63" selection-start="2481" selection-end="2481" vertical-scroll-proportion="0.80422264">
+            <state line="21" column="76" selection-start="942" selection-end="942" vertical-scroll-proportion="-11.538462">
               <folding />
             </state>
           </provider>
@@ -82,25 +82,34 @@
       <file leaf-file-name="startSlider.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="26" selection-end="29" vertical-scroll-proportion="0.0">
+            <state line="17" column="69" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/main.html">
+      <file leaf-file-name="Slider.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/Slider.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="80" selection-start="334" selection-end="334" vertical-scroll-proportion="-3.5384614">
+            <state line="4" column="47" selection-start="96" selection-end="96" vertical-scroll-proportion="0.12142857">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alt.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
+      <file leaf-file-name="coin-slider.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="20" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.0">
+            <state line="267" column="48" selection-start="7507" selection-end="7507" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coin-slider-styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider-styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="17" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,15 +127,15 @@
       <list>
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric1.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/startFollowMenu.js" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider-styles.css" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider.js" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/Slider.js" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/startFollow.js" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/main.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/libs/yandex-share.js" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/index.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/alt.css" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider.js" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider-styles.css" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/Slider.js" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js" />
       </list>
     </option>
   </component>
@@ -316,11 +325,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="gfx" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="slider" />
+              <option name="myItemId" value="coin-slider" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -346,7 +355,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
+              <option name="myItemId" value="gfx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slider" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -374,6 +387,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Telman\Documents\GitHub\at_development\magnolia\html\HTML5Application\public_html\gfx\slider" />
       <recent name="C:\Users\Telman\Documents\GitHub\at_development\magnolia\html\HTML5Application\public_html\js\libs" />
       <recent name="C:\Users\Telman\Documents\GitHub\at_development\magnolia\html\HTML5Application\public_html" />
       <recent name="C:\Users\Telman\Documents\GitHub\at_development\magnolia\html\HTML5Application" />
@@ -560,13 +574,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="92" selection-start="3277" selection-end="3277" vertical-scroll-proportion="0.46360153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -603,44 +610,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/Slider.js">
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="41" selection-start="1046" selection-end="1059" vertical-scroll-proportion="0.75714284">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider-styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="25" selection-start="435" selection-end="435" vertical-scroll-proportion="0.18035714">
+        <state line="51" column="15" selection-start="685" selection-end="685" vertical-scroll-proportion="0.57678574">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="80" selection-start="334" selection-end="334" vertical-scroll-proportion="-3.5384614">
+        <state line="11" column="80" selection-start="334" selection-end="334" vertical-scroll-proportion="0.17228465">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js">
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider-styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="26" selection-end="29" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="20" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.0">
+        <state line="11" column="17" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="63" selection-start="2481" selection-end="2481" vertical-scroll-proportion="0.80422264">
+        <state line="21" column="76" selection-start="942" selection-end="942" vertical-scroll-proportion="-11.538462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="69" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="267" column="48" selection-start="7507" selection-end="7507" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/Slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="47" selection-start="96" selection-end="96" vertical-scroll-proportion="0.12142857">
           <folding />
         </state>
       </provider>
