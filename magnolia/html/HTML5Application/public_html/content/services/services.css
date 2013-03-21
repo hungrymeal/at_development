@@ -41,3 +41,29 @@ src:url('1.ttf'),url('1.eot')
  font-size: 24px;
  text-align: justify;
  }
+ .nav{ width: 70%;
+       height: 100%;
+       margin-left: 15%;
+ }
+ .nav_img{ width: 22%;
+           margin-left:2%;
+           float:left;
+         height:18%; 
+ }
+ .nav_font {
+           width: 22%;
+           margin-left: 2%;
+           float:left;
+           text-align:center;
+           vertical-align: central;
+           color:rgba(45, 11, 68, 0.5);
+           font-size: 32px;
+           height: 216px;       
+ }
+ .nav_img img {
+              width:100%;
+              border:solid;
+              border-radius:6px;
+              border-color:#FFFFFF;
+              
+ }
