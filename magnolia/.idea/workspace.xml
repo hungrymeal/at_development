@@ -4,7 +4,7 @@
     <list default="true" id="51b3b818-3340-468e-b5ea-3893a4853497" name="Default" comment="" />
     <ignored path="magnolia.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363807647476" ignored="false" />
+    <file path="/index.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363909052792" ignored="false" />
     <file path="/a.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363637009383" ignored="false" />
     <file path="/a.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363637045567" ignored="false" />
     <file path="/Slider.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363739887294" ignored="false" />
@@ -14,6 +14,9 @@
     <file path="/coin-slider-styles.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363738850017" ignored="false" />
     <file path="/contacts.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363822533193" ignored="false" />
     <file path="/contacts.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363819047346" ignored="false" />
+    <file path="/spec.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363907978604" ignored="false" />
+    <file path="/nav_spec.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363908614745" ignored="false" />
+    <file path="/paric2.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363908716518" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +75,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="contacts.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.html">
+      <file leaf-file-name="nav_spec.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/nav_spec.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="51" selection-start="513" selection-end="513" vertical-scroll-proportion="0.42418426">
+            <state line="14" column="12" selection-start="319" selection-end="324" vertical-scroll-proportion="-6.6923075">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spec.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/spec.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="7" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="massaj.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/massaj.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="318" selection-end="690" vertical-scroll-proportion="-7.8461537">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cosmet.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/cosmet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="30" selection-start="708" selection-end="708" vertical-scroll-proportion="-14.384615">
+              <folding>
+                <marker date="1363908881109" expanded="true" signature="337:694" placeholder="..." />
+                <marker date="1363908881109" expanded="true" signature="488:685" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,16 +117,43 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="119" selection-start="1175" selection-end="1175" vertical-scroll-proportion="-2.6538463">
+            <state line="25" column="64" selection-start="1051" selection-end="1051" vertical-scroll-proportion="-2.3461537">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contacts.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.css">
+      <file leaf-file-name="nav_services.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/nav_services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="19" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0">
+            <state line="16" column="72" selection-start="476" selection-end="476" vertical-scroll-proportion="0.5093633">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paric1.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="345" selection-end="698" vertical-scroll-proportion="-8.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paric2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="318" selection-end="723" vertical-scroll-proportion="-7.8461537">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paric3.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="318" selection-end="684" vertical-scroll-proportion="-7.8461537">
               <folding />
             </state>
           </provider>
@@ -109,20 +169,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric1.html" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/startFollowMenu.js" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/startFollow.js" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/main.html" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/libs/yandex-share.js" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/alt.css" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider.js" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider-styles.css" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/Slider.js" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/page.css" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/index.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.css" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.html" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric1.html" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/nav_spec.html" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/spec.css" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric2.html" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric3.html" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/massaj.html" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/cosmet.html" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/index.html" />
       </list>
     </option>
   </component>
@@ -234,6 +296,92 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magnolia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magnolia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public_html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magnolia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magnolia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public_html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magnolia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magnolia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public_html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -254,8 +402,8 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -346,7 +494,7 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -426,84 +574,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/libs/yandex-share.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="467" column="25" selection-start="8953" selection-end="8960" vertical-scroll-proportion="0.31992337">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider-styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/coin-slider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="267" column="48" selection-start="7507" selection-end="7507" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/coin-slider/Slider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="46" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/services.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/strijka.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="63" selection-start="388" selection-end="388" vertical-scroll-proportion="0.41385767">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="69" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="355" selection-end="1527" vertical-scroll-proportion="-5.0384617">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/page.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="52" selection-start="215" selection-end="215" vertical-scroll-proportion="0.2125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="20" selection-start="330" selection-end="330" vertical-scroll-proportion="0.27321428">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="48" selection-start="1523" selection-end="1523" vertical-scroll-proportion="1.8196429">
           <folding />
         </state>
       </provider>
@@ -513,23 +586,103 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.css">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/meta.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="19" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0">
+        <state line="45" column="23" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.33214286">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="119" selection-start="1175" selection-end="1175" vertical-scroll-proportion="-2.6538463">
+        <state line="12" column="33" selection-start="354" selection-end="354" vertical-scroll-proportion="0.18913858">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="51" selection-start="513" selection-end="513" vertical-scroll-proportion="0.42418426">
+        <state line="16" column="17" selection-start="571" selection-end="571" vertical-scroll-proportion="0.32629558">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="0" selection-start="1114" selection-end="1151" vertical-scroll-proportion="0.48392856">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/nav_spec.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="12" selection-start="319" selection-end="324" vertical-scroll-proportion="-6.6923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="33" selection-start="225" selection-end="225" vertical-scroll-proportion="0.45535713">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="345" selection-end="698" vertical-scroll-proportion="-8.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="318" selection-end="723" vertical-scroll-proportion="-7.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="318" selection-end="684" vertical-scroll-proportion="-7.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/spec.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="7" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/massaj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="318" selection-end="690" vertical-scroll-proportion="-7.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/cosmet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="30" selection-start="708" selection-end="708" vertical-scroll-proportion="-14.384615">
+          <folding>
+            <marker date="1363908881109" expanded="true" signature="337:694" placeholder="..." />
+            <marker date="1363908881109" expanded="true" signature="488:685" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="64" selection-start="1051" selection-end="1051" vertical-scroll-proportion="-2.3461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/nav_services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="72" selection-start="476" selection-end="476" vertical-scroll-proportion="0.5093633">
           <folding />
         </state>
       </provider>
