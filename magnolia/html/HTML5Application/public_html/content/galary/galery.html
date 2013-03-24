@@ -4,49 +4,67 @@ and open the template in the editor.
 -->
 <!DOCTYPE html>
 <html>
-    <head>
-        <title></title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link rel="stylesheet" href="grid.css" type="text/css"/>
-    </head>
-    <body>
-        <div class="wrapper">
-            <div class="column">
-                <img src="image/1.jpg">
-            </div>
-            <div class="column">
-                <img src="image/2.jpg">
-            </div>
-                <div class="column">
-                    <img src="image/3.jpg">
-            </div>
-                <div class="column">
-                <img src="image/4.jpg">
-            </div>
-           <div class="column">
-                <img src="image/5.jpg">
-            </div>
-            <div class="column">
-                <img src="image/6.jpg">
-            </div>
-            <div class="column">
-                <img src="image/7.jpg">
-            </div>
-            <div class="column">
-                <img src="image/8.jpg">
-            </div>
-            <div class="column">
-                <img src="image/9.jpg">
-            </div>
-            <div class="column">
-                <img src="image/10.jpg">
-            </div>
-            <div class="column">
-                <img src="image/11.jpg">   
-            </div>
-            <div class="column">
-                <img src="image/12.jpg">
-            </div>
-        </div>
-    </body>
+<head>
+	<title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="grid.css" type="text/css"/>
+	<script type="text/javascript" src="../../js/top_up/top_up.js"></script>
+</head>
+<body>
+<div class="wrapper" id="photos">
+	<div class="column">
+		<a href="image/1.jpg"><img src="image/1.jpg"></a>
+	</div>
+	<div class="column">
+		<a href="image/2.jpg"><img src="image/2.jpg"></a>
+	</div>
+	<div class="column">
+		<a href="image/3.jpg"><img src="image/3.jpg"></a>
+	</div>
+	<div class="column">
+		<a href="image/4.jpg"><img src="image/4.jpg"></a>
+	</div>
+	<div class="column">
+		<a href="image/5.jpg"><img src="image/5.jpg"></a>
+	</div>
+	<div class="column">
+		<a href="image/6.jpg"><img src="image/6.jpg"></a>
+	</div>
+	<div class="column">
+		<a href="image/7.jpg"><img src="image/7.jpg"></a>
+	</div>
+	<div class="column">
+		<a href="image/8.jpg"><img src="image/8.jpg"></a>
+	</div>
+	<div class="column">
+		<a href="image/9.jpg"><img src="image/9.jpg"></a>
+	</div>
+	<div class="column">
+		<a href="image/10.jpg"><img src="image/10.jpg"></a>
+	</div>
+	<div class="column">
+		<a href="image/11.jpg"><img src="image/11.jpg"></a>
+	</div>
+	<div class="column">
+		<a href="image/12.jpg"><img src="image/12.jpg"></a>
+	</div>
+</div>
+
+<script type="text/javascript">
+	var height = 0.6;
+	var width = 0.5;
+	TopUp.images_path = "../../js/top_up/images/top_up/";
+	TopUp.addPresets({
+		"#photos a": {
+			title: "Gallery {alt} ({current} of {total})",
+			group: "photos",
+			readAltText: 1,
+			shaded: 1,
+			height: $("#photos").height() * height,
+			width: $("#photos").width() * width
+		}
+	});
+</script>
+
+</body>
 </html>
