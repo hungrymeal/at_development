@@ -10,14 +10,25 @@ body {
 
 .column {
     float: left;
-    width: 22%;
+    width: 23%;
     height: 5%;
     margin: 1%;
 }
 
-.column:hover {
-    -webkit-transform: scale(2);
-    transform: scale(2);
+.column a{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.column img:hover {
+    /*-webkit-transform: scale(2);*/
+    /*transform: scale(2);*/
+    width: 100%;
+    height: 25%;
+    border: solid #FFFFFF 3px;
+    border-radius: 6px;
+    box-shadow: 8px 8px 8px rgba(63, 3, 85, 0.5)
 }
 
 .column img {
