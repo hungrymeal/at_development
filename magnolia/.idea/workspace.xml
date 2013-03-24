@@ -8,8 +8,8 @@
     <file path="/a.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363637009383" ignored="false" />
     <file path="/a.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363637045567" ignored="false" />
     <file path="/Slider.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363739887294" ignored="false" />
-    <file path="/main.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363652459791" ignored="false" />
-    <file path="/alt.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364161300227" ignored="false" />
+    <file path="/main.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364166656461" ignored="false" />
+    <file path="/alt.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364167223279" ignored="false" />
     <file path="/startSlider.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363736074941" ignored="false" />
     <file path="/coin-slider-styles.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363738850017" ignored="false" />
     <file path="/contacts.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363822533193" ignored="false" />
@@ -25,6 +25,7 @@
     <file path="/startGallery.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364151949430" ignored="false" />
     <file path="/top_up.js" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364154993838" ignored="false" />
     <file path="/a.dummy" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364161210874" ignored="false" />
+    <file path="/page.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364166335824" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="54" selection-start="321" selection-end="321" vertical-scroll-proportion="-3.9230769">
+            <state line="29" column="65" selection-start="1218" selection-end="1218" vertical-scroll-proportion="-5.6538463">
               <folding />
             </state>
           </provider>
@@ -95,7 +96,43 @@
       <file leaf-file-name="alt.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="13" selection-start="560" selection-end="560" vertical-scroll-proportion="0.57678574">
+            <state line="187" column="60" selection-start="2919" selection-end="2919" vertical-scroll-proportion="0.7267857">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="20" selection-start="378" selection-end="378" vertical-scroll-proportion="-9.153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/page.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="21" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grid.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/galary/grid.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="10" selection-start="275" selection-end="277" vertical-scroll-proportion="-8.52">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="offers.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/offers/offers.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="78" column="0" selection-start="1208" selection-end="1299" vertical-scroll-proportion="-12.56">
               <folding />
             </state>
           </provider>
@@ -111,8 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/nav_spec.html" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric2.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric3.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/massaj.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/cosmet.html" />
@@ -123,9 +158,11 @@
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/startGallery.js" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/top_up/top_up.js" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/galary/galery.html" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/index.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/offers/offers.css" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/galary/grid.css" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/index.html" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/page.css" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/main.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/alt.css" />
       </list>
     </option>
@@ -512,7 +549,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287879" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25075758" sideWeight="0.67064846" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23257576" sideWeight="0.67064846" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -591,13 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/page.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="48" selection-start="149" selection-end="149" vertical-scroll-proportion="0.18214285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/js/top_up/top_up.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="79" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
@@ -670,20 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/offers/offers.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="34" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/galary/grid.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/galary/galery.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="18" selection-start="408" selection-end="408" vertical-scroll-proportion="-9.153846">
@@ -694,13 +710,6 @@
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/main.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="389" selection-end="389" vertical-scroll-proportion="-6.1153846">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/saloon.html">
@@ -722,16 +731,44 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/offers/offers.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="0" selection-start="1208" selection-end="1299" vertical-scroll-proportion="-12.56">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="21" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/galary/grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="10" selection-start="275" selection-end="277" vertical-scroll-proportion="-8.52">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="20" selection-start="378" selection-end="378" vertical-scroll-proportion="-9.153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="54" selection-start="321" selection-end="321" vertical-scroll-proportion="-3.9230769">
+        <state line="29" column="65" selection-start="1218" selection-end="1218" vertical-scroll-proportion="-5.6538463">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/alt.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="13" selection-start="560" selection-end="560" vertical-scroll-proportion="0.57678574">
+        <state line="187" column="60" selection-start="2919" selection-end="2919" vertical-scroll-proportion="0.7267857">
           <folding />
         </state>
       </provider>

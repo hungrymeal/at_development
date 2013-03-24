@@ -1,37 +1,44 @@
-/* 
-    Document   : page
-    Created on : 11.03.2013, 19:38:46
-    Author     : san4o
-    Description:
-        Purpose of the stylesheet follows.
-*/
-
-.body{
+html {
+    width: 100%;
+    height: 100%;
+}
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
     background-color: #ffcccc;
     background-size: 100%;
-    
 }
+
+.saloon {
+    width: 100%;
+    height: 100%;
+}
+
 .saloon img {
-     width: 70%;
-     height: 400px;
-     border: solid;
-     border-color: #FFFFFF;
-     border-radius: 6px;
-     border-width: 3px;
+    width: 70%;
+    height: 40%;
+    border: solid #FFFFFF 3px;
+    border-radius: 6px;
     display: block;
-     margin:0 auto;
+    margin: auto;
+    position: relative;
 }
+
 @font-face {
-font-family:classic one;
-src:url('content/1.ttf'),url('1.eot')
+    font-family: classic one;
+    src: url('content/1.ttf'), url('1.eot')
 }
- p { font-family: classic one;
- width: 90%;
- display: block;
- margin: 0 auto;
- color:#660033;
- 
- }
+
+p {
+    font-family: classic one;
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+    color: #660033;
+    position: relative;
+
+}
             
            
 
