@@ -169,6 +169,9 @@ ul#indexTitle li {
     text-align: center;
     background-color: rgba(181, 134, 185, 0.59);
 }
+#indexTitle a:active{
+    color:#fff;
+}
 
 .advertisement {
     border: 2px solid #f4c01c;
