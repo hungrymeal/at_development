@@ -115,6 +115,12 @@ body#index {
     border-bottom: 0;
     border-top: 0;
 }
+mainGridColumn  a:hover{
+    text-decoration:none;
+    font-size:42px;
+    text-shadow: 5px 5px 5px rgba(1,65,45,0.7);
+    color:#12e653;
+}
 
 .grid .last {
     overflow: hidden;
