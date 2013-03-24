@@ -19,7 +19,7 @@
     <file path="/paric2.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363908716518" ignored="false" />
     <file path="/offers.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364126118615" ignored="false" />
     <file path="/nav_services.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364126807747" ignored="false" />
-    <file path="/services.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364128156746" ignored="false" />
+    <file path="/services.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364133872802" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,25 +81,7 @@
       <file leaf-file-name="nav_services.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/nav_services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="38" selection-start="3032" selection-end="3032" vertical-scroll-proportion="-8.769231">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nav_spec.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/nav_spec.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="4" selection-start="396" selection-end="422" vertical-scroll-proportion="-0.65384614">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spec.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/spec.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="4" selection-start="705" selection-end="714" vertical-scroll-proportion="0.0">
+            <state line="85" column="27" selection-start="3008" selection-end="3008" vertical-scroll-proportion="-8.115385">
               <folding />
             </state>
           </provider>
@@ -108,7 +90,7 @@
       <file leaf-file-name="services.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/services.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="77" selection-start="642" selection-end="642" vertical-scroll-proportion="0.6660714">
+            <state line="34" column="31" selection-start="449" selection-end="449" vertical-scroll-proportion="0.24107143">
               <folding />
             </state>
           </provider>
@@ -645,28 +627,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/spec.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="4" selection-start="705" selection-end="714" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/nav_services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="38" selection-start="3032" selection-end="3032" vertical-scroll-proportion="-8.769231">
+        <state line="47" column="4" selection-start="705" selection-end="714" vertical-scroll-proportion="0.45535713">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/nav_spec.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="4" selection-start="396" selection-end="422" vertical-scroll-proportion="-0.65384614">
+        <state line="19" column="4" selection-start="396" selection-end="422" vertical-scroll-proportion="0.031835206">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/nav_services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="27" selection-start="3008" selection-end="3008" vertical-scroll-proportion="-8.115385">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/services.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="77" selection-start="642" selection-end="642" vertical-scroll-proportion="0.6660714">
+        <state line="34" column="31" selection-start="449" selection-end="449" vertical-scroll-proportion="0.24107143">
           <folding />
         </state>
       </provider>
