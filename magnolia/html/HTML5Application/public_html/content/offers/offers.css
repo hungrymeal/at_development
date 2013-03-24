@@ -1,64 +1,76 @@
-/* 
-    Document   : offerrs
-    Created on : 23.03.2013, 13:08:47
-    Author     : san4o
-    Description:
-        Purpose of the stylesheet follows.
-*/
 
-root { 
-    display: block;
+@font-face {
+    font-family: classic one;
+    src: url('1.ttf'), url('1.eot')
 }
-.body{
+
+html {
+    width: 100%;
+    height: 100%;
+}
+.body {
     background-color: #ffcccc;
     background-size: 100%;
-    
-}
-.block {
     height: 100%;
     width: 100%;
 }
+
+.nav {
+    width: 50%;
+    height: 100%;
+    margin: auto;
+}
+
+.nav_img {
+    width: 100%;
+    height: 21.875%;
+    display: table;
+}
+
+.nav_img a{
+    width: 100%;
+    height: 100%;
+}
+
+.nav_img img {
+    width: 100%;
+    height: 100%;
+    border: solid #FFFFFF 3px;
+    border-radius: 6px;
+
+}
+
 .offers_img {
-     width: 50%;
-     height: 450px;
-     border: solid;
-     border-color: #FFFFFF;
-     border-radius: 10px;
-     border-width: 3px;
+    width: 50%;
+    height: 450px;
+    border: solid;
+    border-color: #FFFFFF;
+    border-radius: 10px;
+    border-width: 3px;
     display: block;
-     margin:0 auto;
+    margin: 0 auto;
 }
-.offers_img img{
+
+.offers_img img {
     width: 100%;
     height: 100%;
 }
-@font-face {
-font-family:classic one;
-src:url('1.ttf'),url('1.eot')
+
+.offers_font p {
+    font-family: classic one;
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+    color: #660033;
+    font-size: 30px;
+    text-align: justify;
+    margin-top: 20px;
 }
-.offers_font p { font-family: classic one;
- width: 90%;
- display: block;
- margin: 0 auto;
- color:#660033;
- font-size: 30px;
- text-align: justify;
- margin-top: 20px;
- }
-.nav {width: 50%;
-      margin-left: 25%;
-      height: 100%;
-      
-      }
-      .nav_img{
-          width: 100%;
-          margin-top: 30px;
-          
-      }
-      .nav_img img{
-          width: 90%;
-          border: solid;
-          border-color: #FFFFFF;
-          border-radius: 6px;
-          
-      }
+
+.indent
+{
+    height: 2.5%;
+    width: 100%;
+    position: relative;
+    float: left;
+}
