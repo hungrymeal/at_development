@@ -38,6 +38,7 @@ body#index {
     height: 100%;
     left: 5%;
     width: 90%;
+    border: 0;
 }
 
 .content {
