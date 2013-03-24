@@ -14,12 +14,13 @@
     <file path="/coin-slider-styles.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363738850017" ignored="false" />
     <file path="/contacts.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363822533193" ignored="false" />
     <file path="/contacts.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363819047346" ignored="false" />
-    <file path="/spec.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363907978604" ignored="false" />
+    <file path="/spec.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364140795154" ignored="false" />
     <file path="/nav_spec.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363908614745" ignored="false" />
     <file path="/paric2.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1363908716518" ignored="false" />
     <file path="/offers.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364126118615" ignored="false" />
     <file path="/nav_services.html" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364126807747" ignored="false" />
     <file path="/services.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364133872802" ignored="false" />
+    <file path="/grid.css" changelist="51b3b818-3340-468e-b5ea-3893a4853497" time="1364141297571" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,10 +88,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="services.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/services.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="31" selection-start="449" selection-end="449" vertical-scroll-proportion="0.24107143">
+            <state line="69" column="0" selection-start="1003" selection-end="1163" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spec.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/spec.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="79" column="54" selection-start="1206" selection-end="1206" vertical-scroll-proportion="1.0910715">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grid.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/galary/grid.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="36" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="galery.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/galary/galery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="64" selection-start="1018" selection-end="1018" vertical-scroll-proportion="-15.038462">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="offers.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/offers/offers.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="61" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,13 +152,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/js/startSlider.js" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/page.css" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.css" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/services/contacts.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric1.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/nav_spec.html" />
-        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/spec.css" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric2.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/paric3.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/massaj.html" />
@@ -122,6 +166,8 @@
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/offers/offers.css" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/services/nav_services.html" />
         <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/services/services.css" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/spec.css" />
+        <option value="$PROJECT_DIR$/html/HTML5Application/public_html/content/galary/grid.css" />
       </list>
     </option>
   </component>
@@ -285,67 +331,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnolia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="offers" />
+              <option name="myItemId" value="galary" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -541,34 +527,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/offers/mart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="20" selection-start="381" selection-end="381" vertical-scroll-proportion="0.46257198">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/strijka.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="25" selection-start="412" selection-end="425" vertical-scroll-proportion="0.4568138">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/pritheski.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="413" selection-end="424" vertical-scroll-proportion="-9.153846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/makiaj.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/manikur.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -618,20 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/offers/offers.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="2" selection-start="962" selection-end="962" vertical-scroll-proportion="0.60535717">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/spec.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="4" selection-start="705" selection-end="714" vertical-scroll-proportion="0.45535713">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/nav_spec.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="4" selection-start="396" selection-end="422" vertical-scroll-proportion="0.031835206">
@@ -646,9 +590,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/main.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="64" selection-start="1018" selection-end="1018" vertical-scroll-proportion="-15.038462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/offers/offers.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="61" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/services/services.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="31" selection-start="449" selection-end="449" vertical-scroll-proportion="0.24107143">
+        <state line="69" column="0" selection-start="1003" selection-end="1163" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/galary/galery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/galary/grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="36" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML5Application/public_html/content/spec/spec.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="54" selection-start="1206" selection-end="1206" vertical-scroll-proportion="1.0910715">
           <folding />
         </state>
       </provider>

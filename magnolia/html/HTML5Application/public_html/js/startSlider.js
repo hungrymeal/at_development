@@ -9,7 +9,7 @@ var init = function()
 
 	slider.createSlider();
 	slider.addElement("gfx/slider/2.jpg", "vk.com", "vk");
-	slider.addElement("gfx/slider/1.jpg", "google.com", "google");
+	slider.addElement("gfx/slider/main.jpg", "google.com", "google");
 
 	slider.createSlider();
 	slider.addElement("gfx/slider/6.jpg", "google.com", "google");

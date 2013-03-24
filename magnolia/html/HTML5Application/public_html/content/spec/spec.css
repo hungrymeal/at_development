@@ -39,6 +39,14 @@ p#title {
     float: right;
 }
 
+.grid img:hover{
+    width: 20%;
+    height: 90%;
+    border: solid #FFFFFF 3px;
+    border-radius: 6px;
+    box-shadow: 8px 8px 8px rgba(63, 3, 85, 0.5)
+}
+
 .rigtColumn a{
     color: #660033;
     font-size: 22px;

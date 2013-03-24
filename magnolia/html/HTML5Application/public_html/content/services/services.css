@@ -67,6 +67,14 @@ body{
     box-sizing:        border-box;
 }
 
+.nav_img img:hover{
+    width: 100%;
+    height: 100%;
+    border: solid #FFFFFF 3px;
+    border-radius: 6px;
+    box-shadow: 8px 8px 8px rgba(63, 3, 85, 0.5)
+}
+
 .services_img {
     width: 50%;
     height: 450px;
